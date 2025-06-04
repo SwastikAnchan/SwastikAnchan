@@ -1,4 +1,4 @@
-<!-- Profile README for SwastikAnchan -->
+
 <h1 align="center">Hey there! 👋 I'm Swastik Anchan</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1500&color=F7DC6F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
@@ -23,13 +23,12 @@
 
 ```yaml
 Name: Swastik Anchan
-Pronouns: He/Him
 Role: Full Stack Developer
-Hobbies: Coding, Music, Travel, Photography
+Hobbies: Coding, Science and Technology, Music, Travel,
 ```
 
 - 🔭 I’m currently working on **Modern Web Applications**
-- 🌱 I’m improving my skills in **React, Node.js, and Cloud Computing**
+- 🌱 I’m improving my skills in **MERN ,Python, and Cloud Computing**
 - 💬 Ask me about **JavaScript**, **APIs**, and **DevOps**
 - 📫 How to reach me: (mailto:bangeraswastik2004@gmail.com)
 - ⚡ Fun fact: I love building things that make life easier!
@@ -39,7 +38,7 @@ Hobbies: Coding, Music, Travel, Photography
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,docker,aws,figma,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,docker,git" />
 </p>
 
 ---
@@ -69,6 +68,4 @@ Hobbies: Coding, Music, Travel, Photography
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!--
-✨ Profile README generated with love by Copilot ✨
--->
+
