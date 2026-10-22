@@ -67,45 +67,72 @@
   </tr>
 </table>
 
+
 <!-- ========================= 4. FEATURED PROJECTS ========================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<!--
-  EDIT: replace every "Project Name", description, tech list and URL below.
-  Copy a whole <td>...</td> block to add a project.
-  Delete a card entirely if you don't need it.
--->
+<p align="center">
+  A selection of projects focused on practical problem-solving,
+  computer vision, and software development.
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SwastikAnchan/REPLACE-WITH-REPO-NAME">Project Name 1</a></h3>
-      <p>One or two sentences describing what this project does and why you built it.</p>
-      <p><b>Tech:</b> Technology 1 · Technology 2 · Technology 3</p>
-      <p><a href="https://github.com/SwastikAnchan/REPLACE-WITH-REPO-NAME">View repository →</a></p>
+
+<h3>
+  <a href="https://github.com/SwastikAnchan/Driver-Drowsiness-and-Distraction-Detection-System-using-Yolo">
+    🚗 Driver Drowsiness & Distraction Detection
+  </a>
+</h3>
+
+A real-time driver monitoring system that detects drowsiness, sleep, yawning, distraction, and mobile phone usage. It includes night-vision image enhancement, voice alerts, and event logging to support safer driving.
+
+**Key Features**
+- YOLO-based person and mobile phone detection
+- MediaPipe face and hand landmark analysis
+- Low-light enhancement and automatic night mode
+- Voice alerts for detected driving risks
+- CSV event logging and camera reconnection support
+
+**Tech Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square&logoColor=white" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00A67D?style=flat-square&logoColor=white" alt="MediaPipe"/>
+</p>
+
+<a href="https://github.com/SwastikAnchan/Driver-Drowsiness-and-Distraction-Detection-System-using-Yolo">
+  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View project repository"/>
+</a>
+
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SwastikAnchan/REPLACE-WITH-REPO-NAME">Project Name 2</a></h3>
-      <p>One or two sentences describing what this project does and why you built it.</p>
-      <p><b>Tech:</b> Technology 1 · Technology 2 · Technology 3</p>
-      <p><a href="https://github.com/SwastikAnchan/REPLACE-WITH-REPO-NAME">View repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SwastikAnchan/REPLACE-WITH-REPO-NAME">Project Name 3</a></h3>
-      <p>One or two sentences describing what this project does and why you built it.</p>
-      <p><b>Tech:</b> Technology 1 · Technology 2 · Technology 3</p>
-      <p><a href="https://github.com/SwastikAnchan/REPLACE-WITH-REPO-NAME">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SwastikAnchan/REPLACE-WITH-REPO-NAME">Project Name 4</a></h3>
-      <p>One or two sentences describing what this project does and why you built it.</p>
-      <p><b>Tech:</b> Technology 1 · Technology 2 · Technology 3</p>
-      <p><a href="https://github.com/SwastikAnchan/REPLACE-WITH-REPO-NAME">View repository →</a></p>
+
+<h3>💻 More Projects</h3>
+
+Explore my other repositories to discover more of my coding projects, experiments, and learning journey.
+
+<p>
+  <img src="https://img.shields.io/badge/Explore-GitHub_Repositories-0E7490?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories"/>
+</p>
+
+<a href="https://github.com/SwastikAnchan?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse_All_Repositories-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="Browse all repositories"/>
+</a>
+
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <i>Building, experimenting, and learning one project at a time.</i>
+</p>
+
+---
 
 <!-- ========================= 5. GITHUB ANALYTICS ========================= -->
 
