@@ -1,209 +1,263 @@
-<!-- ======================================================================
-  PROFILE README: Swastik Anchan
-  Search for the "EDIT:" markers to find the parts you should customize.
-  Colors used: background #0D1117 | violet #7C3AED | cyan #22D3EE
-====================================================================== -->
+<!-- ==========================================================
+     GITHUB PROFILE README: Swastik S Bangera
+     Theme: Dark | Violet | Cyan
+     Search for "EDIT:" to find the parts you should customize.
+========================================================== -->
 
-<!-- ========================= 1. HERO ========================= -->
+<!-- ======================== HERO ======================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4c1d95,100:0e7490&height=180&section=header&text=Swastik%20Anchan&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Swastik Anchan header banner" width="100%" />
+<!-- EDIT: change "Swastik%20S%20Bangera" if you prefer another display name (use %20 for spaces) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4c1d95,100:0e7490&height=180&section=header&text=Swastik%20S%20Bangera&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Swastik S Bangera"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=45&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing animation: Full Stack Developer, Open Source Enthusiast, Lifelong Learner" />
-
-<!-- EDIT: tagline -->
-<p><i>Building modern web applications, and things that make life easier.</i></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&height=45&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Computer+Vision+Enthusiast" alt="Typing animation: Computer Science Undergraduate, Full Stack Developer, Computer Vision Enthusiast"/>
 
 <p>
-  <a href="https://github.com/SwastikAnchan"><img src="https://img.shields.io/badge/GitHub-SwastikAnchan-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://linkedin.com/in/Swastik-Bangera"><img src="https://img.shields.io/badge/LinkedIn-Connect-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="mailto:bangeraswastik2004@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  Building practical web applications and exploring
+  AI-powered solutions to real-world problems.
+</p>
+
+<p>
+  <a href="https://github.com/SwastikAnchan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+  <a href="https://linkedin.com/in/Swastik-Bangera">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  </a>
+  <a href="mailto:bangeraswastik2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+  </a>
 </p>
 
 </div>
 
-<!-- ========================= 2. ABOUT ME ========================= -->
+---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- ======================== ABOUT ME ======================== -->
 
-<p align="center">
-  I’m a full stack developer who enjoys turning ideas into clean, practical web applications.<br />
-  I’m drawn to open source, science and technology, and the way cloud and DevOps tooling make software easier to ship.
-</p>
-
-<!-- EDIT: update these bullets as your goals change -->
-- 🔭 **Currently building:** modern web applications
-- 🌱 **Currently learning:** the MERN stack in more depth, Python, and cloud computing
-- 💬 **Ask me about:** JavaScript, APIs, and DevOps
-- 🎯 **Philosophy:** build things that make life easier
-- 🎧 **Outside of code:** music and travel
-
-<!-- ========================= 3. TECH STACK ========================= -->
-
-<h2 align="center">🧰 Tech Stack</h2>
-
-<!-- EDIT: to add or remove a technology, change the ids in "?i=" (list: https://skillicons.dev) -->
-<table align="center">
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript and Python" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git&theme=dark" alt="Docker and Git" /></td>
-  </tr>
-</table>
-
-
-<!-- ========================= 4. FEATURED PROJECTS ========================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  A selection of projects focused on practical problem-solving,
-  computer vision, and software development.
+  I'm a Computer Science and Engineering undergraduate with hands-on
+  experience in MERN stack development and computer vision.
+  I enjoy building full-stack applications, designing RESTful APIs,
+  and exploring AI-based solutions.
 </p>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
+<!-- EDIT: keep these short; details live in the sections below -->
+- 🎓 **Education:** B.Tech in Computer Science and Engineering, NMAM Institute of Technology, Nitte
+- 💼 **Experience:** Full-Stack Development Intern at Inventeron Technologies, Bangalore
+- 🔬 **Interests:** Software development, artificial intelligence, and cybersecurity
 
-<h3>
+---
+
+<!-- ======================== TECH STACK ======================== -->
+
+<h2 align="center">Technical Skills</h2>
+
+<div align="center">
+
+<!-- EDIT: add or remove skills by changing the ids after "?i=" (full list: https://skillicons.dev).
+     Example: add TypeScript and Docker back with "ts" and "docker" if you still use them. -->
+
+<h3>Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark" alt="Java, C++, Python, JavaScript"/>
+
+<h3>Frontend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS, React"/>
+
+<h3>Backend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+
+<h3>Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="MongoDB, MySQL, Firebase"/>
+
+<h3>Computer Vision</h3>
+
+<img src="https://img.shields.io/badge/YOLOv8-4c1d95?style=for-the-badge" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/MediaPipe-0E7490?style=for-the-badge" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/OpenCV-6D28D9?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+
+<h3>Tools &amp; Libraries</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"/>
+<img src="https://img.shields.io/badge/Redux-6D28D9?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/Axios-0E7490?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+
+</div>
+
+---
+
+<!-- ======================== EXPERIENCE ======================== -->
+
+<h2 align="center">Experience</h2>
+
+<h3 align="center">Full-Stack Development Intern: Inventeron Technologies</h3>
+
+<p align="center"><i>Bangalore | December 2024 – March 2025</i></p>
+
+- Developed responsive frontend interfaces using React.js.
+- Built RESTful APIs using Node.js and Express.js.
+- Integrated MongoDB for application data management.
+- Implemented state management and API communication using Redux and Axios.
+
+---
+
+<!-- ======================== FEATURED PROJECTS ======================== -->
+
+<h2 align="center">Featured Projects</h2>
+
+<!-- EDIT: to add a project, copy a whole <td>...</td> block into a new <tr>.
+     Keep the blank lines right after <td> and before </td> so the Markdown inside renders. -->
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Student Academic Management System</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-0E7490?style=for-the-badge" alt="MERN Stack"/>
+</p>
+
+A full-stack academic management platform designed to streamline student, teacher, and administrator communication and class management.
+
+**Technologies**
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+**Highlights**
+
+- Full-stack web application development
+- Academic and class management workflows
+- Role-oriented user workflows for students, teachers, and administrators
+
+<p align="center">
+  <!-- EDIT: replace this line with a "View Repository" button (copy the one from the next card) once the repo is public -->
+  <i>Repository link to be added.</i>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
   <a href="https://github.com/SwastikAnchan/Driver-Drowsiness-and-Distraction-Detection-System-using-Yolo">
-    🚗 Driver Drowsiness & Distraction Detection
+    Driver Drowsiness &amp; Distraction Detection
   </a>
 </h3>
 
-A real-time driver monitoring system that detects drowsiness, sleep, yawning, distraction, and mobile phone usage. It includes night-vision image enhancement, voice alerts, and event logging to support safer driving.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/YOLOv8-4c1d95?style=for-the-badge" alt="YOLOv8"/>
+</p>
+
+A real-time driver monitoring system that detects drowsiness, yawning, distraction, and mobile phone usage.
+
+**Technologies**
+
+- Python and OpenCV
+- YOLOv8
+- MediaPipe
 
 **Key Features**
-- YOLO-based person and mobile phone detection
-- MediaPipe face and hand landmark analysis
-- Low-light enhancement and automatic night mode
-- Voice alerts for detected driving risks
-- CSV event logging and camera reconnection support
 
-**Tech Stack**
+- Real-time driver monitoring
+- Low-light enhancement and night-vision support
+- Voice alerts for detected risks
+- CSV event logging
+- Automatic camera reconnection
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square&logoColor=white" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/MediaPipe-00A67D?style=flat-square&logoColor=white" alt="MediaPipe"/>
+<p align="center">
+  <a href="https://github.com/SwastikAnchan/Driver-Drowsiness-and-Distraction-Detection-System-using-Yolo">
+    <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View driver detection repository"/>
+  </a>
 </p>
 
-<a href="https://github.com/SwastikAnchan/Driver-Drowsiness-and-Distraction-Detection-System-using-Yolo">
-  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View project repository"/>
-</a>
-
-    </td>
-    <td width="50%" valign="top">
-
-<h3>💻 More Projects</h3>
-
-Explore my other repositories to discover more of my coding projects, experiments, and learning journey.
-
-<p>
-  <img src="https://img.shields.io/badge/Explore-GitHub_Repositories-0E7490?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories"/>
-</p>
-
-<a href="https://github.com/SwastikAnchan?tab=repositories">
-  <img src="https://img.shields.io/badge/Browse_All_Repositories-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="Browse all repositories"/>
-</a>
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <p align="center">
-  <i>Building, experimenting, and learning one project at a time.</i>
+  <a href="https://github.com/SwastikAnchan?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="Explore GitHub repositories"/>
+  </a>
 </p>
 
 ---
 
-<!-- ========================= 5. GITHUB ANALYTICS ========================= -->
+<!-- ======================== EDUCATION ======================== -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">Education</h2>
 
-<!-- Services: github-readme-stats (vercel.app) and streak-stats (demolab.com). Both are free and may occasionally be slow or rate-limited. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwastikAnchan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Swastik Anchan's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwastikAnchan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Swastik Anchan's most used languages" width="48%" />
+  <b>B.Tech: Computer Science and Engineering</b><br />
+  NMAM Institute of Technology, Nitte | 2025–2028
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SwastikAnchan&theme=tokyonight&hide_border=true" alt="Swastik Anchan's GitHub contribution streak" width="70%" />
+  <b>Diploma: Computer Science and Engineering</b><br />
+  N.R.A.M. Polytechnic, Nitte | 2022–2025
 </p>
 
-<!-- ========================= 6. CONTRIBUTION ACTIVITY ========================= -->
+---
 
-<h2 align="center">📈 Contribution Activity</h2>
+<!-- ======================== LEADERSHIP & RESEARCH ======================== -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwastikAnchan&bg_color=0D1117&color=7aa2f7&line=bb9af7&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" alt="Swastik Anchan's contribution activity graph" width="100%" />
-</p>
+<h2 align="center">Leadership &amp; Research</h2>
 
-<!--
-  OPTIONAL: Contribution snake animation.
-  1. Add the GitHub Actions workflow from the setup instructions and run it once.
-  2. Wait until the branch "output" contains github-snake.svg and github-snake-dark.svg.
-  3. Then delete this comment's opening and closing markers to activate the block below.
+<h3 align="center">Student Council President: N.R.A.M. Polytechnic (2024–2025)</h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwastikAnchan/SwastikAnchan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwastikAnchan/SwastikAnchan/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/SwastikAnchan/SwastikAnchan/output/github-snake.svg" />
-  </picture>
-</p>
--->
+- Led an 11-member team.
+- Organized more than 10 academic and extracurricular events.
+- Increased student participation by 30%.
 
-<!-- ========================= 7. DEVELOPER HIGHLIGHTS ========================= -->
+<h3 align="center">Research Presentation: 4th ITSE State-Level Student Convention, KPT Mangalore (2024)</h3>
 
-<h2 align="center">✨ Developer Highlights</h2>
+Presented *Emerging Trends in Computer Science*, covering AI-driven threat detection, Zero Trust security, blockchain for IoT, and post-quantum cryptography.
 
-<!-- EDIT: update these three columns as your focus changes -->
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><b>🎯 Current Focus</b></td>
-    <td align="center" width="33%"><b>🔍 Exploring</b></td>
-    <td align="center" width="33%"><b>💡 Interests</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">Building modern web applications</td>
-    <td align="center" valign="top">Python<br />Cloud Computing<br />DevOps</td>
-    <td align="center" valign="top">Web Development<br />Open Source<br />Science &amp; Technology</td>
-  </tr>
-</table>
+---
 
-<!-- ========================= 8. CONNECT ========================= -->
+<!-- ======================== GITHUB ANALYTICS ======================== -->
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">GitHub Analytics</h2>
+
+<!-- These cards come from free external services (github-readme-stats on vercel.app and
+     streak-stats on demolab.com). They are optional and may occasionally be slow or fail.
+     If one breaks, delete its <img> line. -->
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SwastikAnchan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwastikAnchan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=SwastikAnchan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<!-- ======================== CONTACT ======================== -->
+
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  Open to conversations about web development, open source, and new ideas.<br />
-  Email is the best way to reach me:
+  I'm interested in software development, full-stack engineering,
+  computer vision, and collaborative projects.<br />
+  The best way to reach me is by email:
   <a href="mailto:bangeraswastik2004@gmail.com">bangeraswastik2004@gmail.com</a><br />
   You can also find me on <a href="https://linkedin.com/in/Swastik-Bangera">LinkedIn</a>.
 </p>
 
-<!-- ========================= 9. FOOTER ========================= -->
-
 <p align="center">
-  <i>“Make it work, make it right, make it fast.”</i> — Kent Beck
+  <i>Building, learning, and improving one project at a time.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4c1d95,100:0e7490&height=100&section=footer" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4c1d95,100:0e7490&height=100&section=footer" width="100%" alt="Footer banner"/>
